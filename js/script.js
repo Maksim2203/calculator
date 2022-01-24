@@ -115,5 +115,4 @@ const appData = {
     serviceNumber: {},
     isEmpty: false,
     cms: 1,
-    
 }
