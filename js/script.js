@@ -101,3 +101,19 @@ function calculation(){
     let rollback_percent = rollback_range.value;
     console.log(rollback_percent);
 };
+const appData = {
+    title: '',
+    screens:[],
+    screensPrice: 0,
+    adaptiv: true,
+    rollback: 0,
+    servicePricesPercent: 0,
+    servicePricesNumber: 0,
+    fullPrice: 0,
+    servicePercentPrice: 0,
+    servicePercent: {},
+    serviceNumber: {},
+    isEmpty: false,
+    cms: 1,
+    
+}
